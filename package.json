@@ -1,0 +1,18 @@
+{
+  "name": "insomnia-plugin-protobuf",
+  "version": "0.1.0",
+  "description": "",
+  "main": "plugin.js",
+  "insomnia": {
+    "name":"protobuf",
+    "description":"read protobuf responses"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "protobuf"
+  ],
+  "author": "hawry",
+  "license": "MIT"
+}
