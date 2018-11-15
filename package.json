@@ -5,13 +5,15 @@
   "main": "plugin.js",
   "insomnia": {
     "name": "protobuf",
-    "description": "read protobuf responses"
+    "description": "Encode and decode json payloads to protobuf on the fly"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "protobuf"
+    "protobuf",
+    "insomnia",
+    "plugin"
   ],
   "author": "hawry",
   "license": "MIT",
