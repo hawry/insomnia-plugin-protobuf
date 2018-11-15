@@ -4,8 +4,8 @@
   "description": "",
   "main": "plugin.js",
   "insomnia": {
-    "name":"protobuf",
-    "description":"read protobuf responses"
+    "name": "protobuf",
+    "description": "read protobuf responses"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,5 +14,8 @@
     "protobuf"
   ],
   "author": "hawry",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "protobufjs": "^6.8.8"
+  }
 }
